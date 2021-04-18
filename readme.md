@@ -1,0 +1,1 @@
+Covers Prop Types with examples
